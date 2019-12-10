@@ -3,4 +3,5 @@
 
 List of completed exercises:
   1. Basic Exercises Part-I
+    17. add two binary numbers
     19. convert a decimal number to binary number
