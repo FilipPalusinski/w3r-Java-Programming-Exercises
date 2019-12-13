@@ -5,7 +5,7 @@ public class addTwoBinary {
     public static void main(String[] args) {
         String firstBinary, secondBinary;
 
-        int[] summary;
+       
         Scanner in = new Scanner(System.in);
 
         System.out.print("Type first binary number: ");
