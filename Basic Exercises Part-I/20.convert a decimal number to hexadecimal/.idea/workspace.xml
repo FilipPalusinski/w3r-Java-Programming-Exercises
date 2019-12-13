@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81695fef-4e45-42c2-94e3-d85927e8fc6a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UwSeMWN1Aj5pC989VbUXtDGgxH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="decToHexapp" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="DecToHex" />
+      <module name="20" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81695fef-4e45-42c2-94e3-d85927e8fc6a" name="Default Changelist" comment="" />
+      <created>1576266258881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576266258881</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2039" y="182" width="671" height="692" key="#Unnamed" timestamp="1576266921130">
+      <screen x="1680" y="0" width="1400" height="1050" />
+    </state>
+    <state x="2039" y="182" width="671" height="692" key="#Unnamed/0.41.1680.1023/1680.0.1400.1050@1680.0.1400.1050" timestamp="1576266921130" />
+    <state x="1838" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576266906792">
+      <screen x="1680" y="0" width="1400" height="1050" />
+    </state>
+    <state x="1838" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.41.1680.1023/1680.0.1400.1050@1680.0.1400.1050" timestamp="1576266906792" />
+    <state x="2107" y="314" width="525" height="435" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1576266965934">
+      <screen x="1680" y="0" width="1400" height="1050" />
+    </state>
+    <state x="2107" y="314" width="525" height="435" key="#com.intellij.ide.util.TreeClassChooserDialog/0.41.1680.1023/1680.0.1400.1050@1680.0.1400.1050" timestamp="1576266965934" />
+    <state x="2039" y="182" width="671" height="692" key="#decToHexapp" timestamp="1576266968018">
+      <screen x="1680" y="0" width="1400" height="1050" />
+    </state>
+    <state x="2039" y="182" width="671" height="692" key="#decToHexapp/0.41.1680.1023/1680.0.1400.1050@1680.0.1400.1050" timestamp="1576266968018" />
+    <state width="1354" height="274" key="GridCell.Tab.0.bottom" timestamp="1576276682024">
+      <screen x="1680" y="0" width="1400" height="1050" />
+    </state>
+    <state width="1354" height="274" key="GridCell.Tab.0.bottom/0.41.1680.1023/1680.0.1400.1050@1680.0.1400.1050" timestamp="1576276682024" />
+    <state width="1354" height="274" key="GridCell.Tab.0.center" timestamp="1576276682024">
+      <screen x="1680" y="0" width="1400" height="1050" />
+    </state>
+    <state width="1354" height="274" key="GridCell.Tab.0.center/0.41.1680.1023/1680.0.1400.1050@1680.0.1400.1050" timestamp="1576276682024" />
+    <state width="1354" height="274" key="GridCell.Tab.0.left" timestamp="1576276682024">
+      <screen x="1680" y="0" width="1400" height="1050" />
+    </state>
+    <state width="1354" height="274" key="GridCell.Tab.0.left/0.41.1680.1023/1680.0.1400.1050@1680.0.1400.1050" timestamp="1576276682024" />
+    <state width="1354" height="274" key="GridCell.Tab.0.right" timestamp="1576276682024">
+      <screen x="1680" y="0" width="1400" height="1050" />
+    </state>
+    <state width="1354" height="274" key="GridCell.Tab.0.right/0.41.1680.1023/1680.0.1400.1050@1680.0.1400.1050" timestamp="1576276682024" />
+    <state x="2036" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1576272181928">
+      <screen x="1680" y="0" width="1400" height="1050" />
+    </state>
+    <state x="2036" y="352" key="com.intellij.ide.util.TipDialog/0.41.1680.1023/1680.0.1400.1050@1680.0.1400.1050" timestamp="1576272181928" />
+  </component>
+</project>
