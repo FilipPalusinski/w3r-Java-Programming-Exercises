@@ -11,3 +11,5 @@ List of completed exercises:
 	17. add two binary numbers
 	18. multiply two binary numbers
 	19. convert a decimal number to binary number
+	20. convert a decimal number to hexadecimal
+	21. convert a decimal number to octal
