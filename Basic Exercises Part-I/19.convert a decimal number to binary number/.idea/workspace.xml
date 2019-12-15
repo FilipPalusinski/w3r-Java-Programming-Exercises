@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="97ed1973-1325-4231-bfbf-8bde8e18f119" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/decimalToBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/decimalToBinary.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,9 +97,13 @@
       <screen x="1680" y="0" width="1400" height="1050" />
     </state>
     <state width="1354" height="274" key="GridCell.Tab.0.right/0.41.1680.1023/1680.0.1400.1050@1680.0.1400.1050" timestamp="1576361117388" />
-    <state x="1689" y="127" width="1372" height="803" key="new project wizard" timestamp="1576359445241">
+    <state x="2036" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1576446314340">
       <screen x="1680" y="0" width="1400" height="1050" />
     </state>
-    <state x="1689" y="127" width="1372" height="803" key="new project wizard/0.41.1680.1023/1680.0.1400.1050@1680.0.1400.1050" timestamp="1576359445241" />
+    <state x="2036" y="352" key="com.intellij.ide.util.TipDialog/0.41.1680.1023/1680.0.1400.1050@1680.0.1400.1050" timestamp="1576446314340" />
+    <state x="1689" y="127" width="1372" height="803" key="new project wizard" timestamp="1576446322769">
+      <screen x="1680" y="0" width="1400" height="1050" />
+    </state>
+    <state x="1689" y="127" width="1372" height="803" key="new project wizard/0.41.1680.1023/1680.0.1400.1050@1680.0.1400.1050" timestamp="1576446322769" />
   </component>
 </project>
