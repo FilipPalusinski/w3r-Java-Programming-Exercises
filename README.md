@@ -15,3 +15,4 @@ List of completed exercises:
 	21. convert a decimal number to octal
 	22. convert a binary number to decimal number
 	23. convert a binary number to hexadecimal number
+	24. convert a binary number to octal number
