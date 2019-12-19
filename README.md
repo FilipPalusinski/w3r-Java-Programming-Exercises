@@ -10,10 +10,11 @@ List of completed exercises:
 	
 	17. add two binary numbers
 	18. multiply two binary numbers
-	19. convert a decimal number to binary number
-	20. convert a decimal number to hexadecimal
-	21. convert a decimal number to octal
-	22. convert a binary number to decimal number
-	23. convert a binary number to hexadecimal number
-	24. convert a binary number to octal number
-	25. convert a octal number to decimal number
+	19. convert a decimal number to a binary number
+	20. convert a decimal number to a hexadecimal
+	21. convert a decimal number to an octal
+	22. convert a binary number to a decimal number
+	23. convert a binary number to a hexadecimal number
+	24. convert a binary number to an octal number
+	25. convert an octal number to a decimal number
+	26. convert an octal number to a binary number
