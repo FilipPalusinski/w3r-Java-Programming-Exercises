@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0643f37e-e494-42c1-9226-62118c4af6e1" name="Default Changelist" comment="" />
+    <list default="true" id="0643f37e-e494-42c1-9226-62118c4af6e1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../17.add two binary numbers/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../17.add two binary numbers/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17.add two binary numbers/out/production/17./addTwoBinary.class" beforeDir="false" afterPath="$PROJECT_DIR$/../17.add two binary numbers/out/production/17./addTwoBinary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1VAdPcmGY33FTz2YVvF7LxLoFaF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../27.convert an octal number to a hexadecimal number" />
   </component>
   <component name="RunManager">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
@@ -66,6 +75,14 @@
       <screen x="1680" y="0" width="1400" height="1050" />
     </state>
     <state x="2112" y="311" width="525" height="435" key="#com.intellij.ide.util.TreeClassChooserDialog/0.41.1680.1023/1680.0.1400.1050@1680.0.1400.1050" timestamp="1576708852606" />
+    <state x="2221" y="417" width="308" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1578161278350">
+      <screen x="1680" y="0" width="1400" height="1050" />
+    </state>
+    <state x="2221" y="417" width="308" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.1680.1023/1680.0.1400.1050@1680.0.1400.1050" timestamp="1578161278350" />
+    <state x="2163" y="283" width="424" height="491" key="FileChooserDialogImpl" timestamp="1578161393116">
+      <screen x="1680" y="0" width="1400" height="1050" />
+    </state>
+    <state x="2163" y="283" width="424" height="491" key="FileChooserDialogImpl/0.27.1680.1023/1680.0.1400.1050@1680.0.1400.1050" timestamp="1578161393116" />
     <state width="1354" height="274" key="GridCell.Tab.0.bottom" timestamp="1576709123137">
       <screen x="1680" y="0" width="1400" height="1050" />
     </state>

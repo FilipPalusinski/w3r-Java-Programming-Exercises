@@ -18,3 +18,4 @@ List of completed exercises:
 	24. convert a binary number to an octal number
 	25. convert an octal number to a decimal number
 	26. convert an octal number to a binary number
+	27. convert an octal number to a hexadecimal number
